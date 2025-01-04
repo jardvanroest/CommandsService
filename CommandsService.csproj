@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <PropertyGroup>
-    <VersionPrefix>0.0.1</VersionPrefix>
+    <Version>0.0.1</Version>
   </PropertyGroup>
 
 </Project>
