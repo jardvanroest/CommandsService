@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  REPOSITORY: ${{ github.repository }}
+  REPOSITORY: microservices-tutorial/commands-service
   CS_PROJ_FILE: CommandsService.csproj
 
 jobs:
